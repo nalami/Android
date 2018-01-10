@@ -1,1 +1,1 @@
-# VitalTech
+# Android application
